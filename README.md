@@ -202,7 +202,7 @@ streamlit run app.py
 
 ---
 
-## 💬 Usage
+## Usage
 
 ### Streamlit UI
 
@@ -227,7 +227,7 @@ python -m src.ingestion.ingest docs/ --dry-run
 
 ---
 
-## 📡 API Reference
+## API Reference
 
 ### `GET /health`
 ```json
