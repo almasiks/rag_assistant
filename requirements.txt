@@ -1,0 +1,13 @@
+langchain
+langchain-huggingface
+langchain-community
+qdrant-client
+sentence-transformers
+pypdf==4.3.1
+loguru
+python-dotenv
+fastapi==0.115.6
+uvicorn==0.32.1
+langchain-ollama==0.2.1
+aiosqlite==0.20.0
+pydantic==2.10.3

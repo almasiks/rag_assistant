@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Environment
+.env
+
+# Data
+data/
+docs/*.pdf
+
+# Models cache
+.cache/
+sentence_transformers/
+
+# OS
+.DS_Store
+Thumbs.db
